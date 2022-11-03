@@ -1,0 +1,26 @@
+body {
+    background-color: ghostwhite;
+}
+
+nav {
+    position: sticky;
+    top: 0em;
+    border-top: solid 1px black;
+    border-bottom: solid 1px white;
+    background-blend-mode: overlay;
+    align-items: center;
+    
+}
+
+nav li {
+    display: inline;
+    padding: 5px;
+    text-align: center;
+    border-color: white;
+    text-decoration-color: white;
+}
+
+.head {
+    text-align: right;
+    margin: auto;
+}
